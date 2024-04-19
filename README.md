@@ -9,3 +9,9 @@
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-E34F26?logo=PYTHON&logoColor=white&style=for-the-badge)
 ![JAVA](https://img.shields.io/badge/JAVA-E34F26?logo=JAVA&logoColor=white&style=for-the-badge)
+
+
+
+<a href="https://github.com/aliakbartnt/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=aliakbartnt">
+</a>
