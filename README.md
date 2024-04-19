@@ -1,9 +1,12 @@
 ### Hi there 👋
 </p><br>
 
+
+
  <p align='center'><img src="https://komarev.com/ghpvc/?username=aliakbartnt&label=Total%20Profile%20Visitor&color=071A2C&style=for-the-badge" alt="aliakbartnt" /><br>
 <p align='center'><a href="https://github.com/aliakbartnt?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aliakbartnt?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a><a href="https://github.com/aliakbartnt"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/aliakbartnt?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a><br>
 
+!(https://api.githubtrends.io/user/svg/aliakbartnt/langs?time_range=one_year&use_percent=True&compact=True&theme=dark)
 ![Aliakbartnt GitHub stats](https://github-readme-stats.vercel.app/api?username=aliakbartnt&theme=dark&show_icons=true)
 
 ## Connect me : 
