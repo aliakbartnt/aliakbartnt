@@ -7,7 +7,7 @@
 <p align='center'><a href="https://github.com/aliakbartnt?tab=repositories&sort=stargazers"><img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/aliakbartnt?color=B8B92B&style=for-the-badge&labelColor=959532&logo=star"/></a><a href="https://github.com/aliakbartnt"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/aliakbartnt?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a><br>
 
 
-![Aliakbartnt GitHub stats](https://github-readme-stats.vercel.app/api?username=aliakbartnt&theme=dark&show_icons=true)
+[![Aliakbartnt GitHub stats](https://github-readme-stats.vercel.app/api?username=aliakbartnt&theme=dark&show_icons=true)](https://github.com/aliakbartnt)
 
 ## Connect me : 
 <a href="https://discord.gg/rjvfVD9TWD"><img alt="Discord" title="Discord" src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -16,7 +16,7 @@
 ## My Skill :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliakbartnt
-)](https://github.com/aliakbartnt/github-readme-stats)
+)](https://github.com/aliakbartnt)
 
 [![PYTHON](https://img.shields.io/badge/PYTHON-E34F26?logo=PYTHON&logoColor=white&style=for-the-badge)](https://github.com/aliakbartnt)
 [![JAVA](https://img.shields.io/badge/JAVA-E34F26?logo=JAVA&logoColor=white&style=for-the-badge)](https://github.com/aliakbartnt)
