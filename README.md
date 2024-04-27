@@ -21,7 +21,7 @@
 ![PYTHON](https://img.shields.io/badge/PYTHON-E34F26?logo=PYTHON&logoColor=white&style=for-the-badge)
 ![JAVA](https://img.shields.io/badge/JAVA-E34F26?logo=JAVA&logoColor=white&style=for-the-badge)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=aliakbartnt&theme=dark&hide_border=true)](https://github.com/aliakbartnt)
+[![GitHub Streak](https://streak-stats.demolab.com?user=aliakbartnt&theme=java-dark&date_format=n%2Fj%5B%2FY%5D)](https://github.com/aliakbartnt)
 
 <a href="https://github.com/aliakbartnt/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=aliakbartnt">
